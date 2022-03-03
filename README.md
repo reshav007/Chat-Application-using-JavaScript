@@ -19,10 +19,17 @@ to the user’s page and all other users will immediately know that you’ve log
 [Installation Part]
 
 Step 1: Install XAMPP 
+
 Step 2: Copy and paste this ChatApp folder in XAMPP->htdocs
+
 Step 3: Start Apache & MySQL
+
 Step 4: Go to your browser & Open the URL -> localhost/phpmyadmin
+
 Step 5: Create a new database with name as ChatApp
+
 Step 6: Click on import option & import the SQL file which is present in the ChatApp folder
+
 Step 7: Open the URL -> localhost/chatapp
+
 Step 8: Your chat application is ready to chat
